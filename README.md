@@ -1,2 +1,2 @@
 # face-recegnetion
-project using python using ai
+project using python of face-recegnetion
